@@ -3,6 +3,7 @@ let name = "Aya";
 let age = 22;
 let city = "Oujda";
 
+// ateempt 2 to create merge conflict 
 console.log(name);
 console.log(age);
 console.log(city);
